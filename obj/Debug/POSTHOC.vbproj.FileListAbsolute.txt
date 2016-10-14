@@ -1,0 +1,12 @@
+c:\users\bhamelin\documents\visual studio 2015\Projects\POSTHOC\POSTHOC\bin\Debug\POSTHOC.exe.config
+c:\users\bhamelin\documents\visual studio 2015\Projects\POSTHOC\POSTHOC\bin\Debug\POSTHOC.exe
+c:\users\bhamelin\documents\visual studio 2015\Projects\POSTHOC\POSTHOC\bin\Debug\POSTHOC.pdb
+c:\users\bhamelin\documents\visual studio 2015\Projects\POSTHOC\POSTHOC\bin\Debug\POSTHOC.xml
+c:\users\bhamelin\documents\visual studio 2015\Projects\POSTHOC\POSTHOC\obj\Debug\POSTHOC.vbprojResolveAssemblyReference.cache
+c:\users\bhamelin\documents\visual studio 2015\Projects\POSTHOC\POSTHOC\obj\Debug\POSTHOC.Form1.resources
+c:\users\bhamelin\documents\visual studio 2015\Projects\POSTHOC\POSTHOC\obj\Debug\POSTHOC.Resources.resources
+c:\users\bhamelin\documents\visual studio 2015\Projects\POSTHOC\POSTHOC\obj\Debug\POSTHOC.vbproj.GenerateResource.Cache
+c:\users\bhamelin\documents\visual studio 2015\Projects\POSTHOC\POSTHOC\obj\Debug\POSTHOC.exe
+c:\users\bhamelin\documents\visual studio 2015\Projects\POSTHOC\POSTHOC\obj\Debug\POSTHOC.xml
+c:\users\bhamelin\documents\visual studio 2015\Projects\POSTHOC\POSTHOC\obj\Debug\POSTHOC.pdb
+C:\Users\bhamelin\Documents\Visual Studio 2015\Projects\POSTHOC\POSTHOC\obj\Debug\POSTHOC.Form2.resources
